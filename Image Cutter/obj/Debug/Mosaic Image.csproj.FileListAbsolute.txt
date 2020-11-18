@@ -1,0 +1,10 @@
+C:\Users\E1897\Documents\Image Cutter\Mosaic Image\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\E1897\Documents\Image Cutter\Mosaic Image\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\E1897\Documents\Image Cutter\Mosaic Image\obj\Debug\Mosaic Image.csprojResolveAssemblyReference.cache
+C:\Users\E1897\Documents\Image Cutter\Mosaic Image\obj\Debug\Mosaic_Image_Cut.Form1.resources
+C:\Users\E1897\Documents\Image Cutter\Mosaic Image\obj\Debug\Mosaic_Image_Cut.Properties.Resources.resources
+C:\Users\E1897\Documents\Image Cutter\Mosaic Image\obj\Debug\Mosaic Image.csproj.GenerateResource.Cache
+C:\Users\E1897\Documents\Image Cutter\Mosaic Image\bin\Debug\HOANGHA - Image Cutter.exe
+C:\Users\E1897\Documents\Image Cutter\Mosaic Image\bin\Debug\HOANGHA - Image Cutter.pdb
+C:\Users\E1897\Documents\Image Cutter\Mosaic Image\obj\Debug\HOANGHA - Image Cutter.exe
+C:\Users\E1897\Documents\Image Cutter\Mosaic Image\obj\Debug\HOANGHA - Image Cutter.pdb

@@ -1,0 +1,20 @@
+C:\Users\E1897\Documents\Image Cutter\Image Cutter\obj\Debug\HOANGHA - Image Cutter.exe
+C:\Users\E1897\Documents\Image Cutter\Image Cutter\obj\Debug\HOANGHA - Image Cutter.pdb
+C:\Users\E1897\Documents\Image Cutter\Image Cutter\bin\Debug\HOANGHA - Image Cutter.exe
+C:\Users\E1897\Documents\Image Cutter\Image Cutter\bin\Debug\HOANGHA - Image Cutter.pdb
+C:\Users\E1897\Documents\Image Cutter\Image Cutter\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\E1897\Documents\Image Cutter\Image Cutter\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\E1897\Documents\Image Cutter\Image Cutter\obj\Debug\Image Cutter.csprojResolveAssemblyReference.cache
+C:\Users\E1897\Documents\Image Cutter\Image Cutter\obj\Debug\Mosaic_Image_Cut.Form1.resources
+C:\Users\E1897\Documents\Image Cutter\Image Cutter\obj\Debug\Mosaic_Image_Cut.Properties.Resources.resources
+C:\Users\E1897\Documents\Image Cutter\Image Cutter\obj\Debug\Image Cutter.csproj.GenerateResource.Cache
+D:\LEXIS-NEXIS PROJECT\1897\Sync\Sync\Projects\Image Cutter\Image Cutter\obj\Debug\HOANGHA - Image Cutter.exe
+D:\LEXIS-NEXIS PROJECT\1897\Sync\Sync\Projects\Image Cutter\Image Cutter\obj\Debug\HOANGHA - Image Cutter.pdb
+D:\LEXIS-NEXIS PROJECT\1897\Sync\Sync\Projects\Image Cutter\Image Cutter\bin\Debug\HOANGHA - Image Cutter.exe
+D:\LEXIS-NEXIS PROJECT\1897\Sync\Sync\Projects\Image Cutter\Image Cutter\bin\Debug\HOANGHA - Image Cutter.pdb
+D:\LEXIS-NEXIS PROJECT\1897\Sync\Sync\Projects\Image Cutter\Image Cutter\bin\Debug\AxInterop.AcroPDFLib.dll
+D:\LEXIS-NEXIS PROJECT\1897\Sync\Sync\Projects\Image Cutter\Image Cutter\bin\Debug\Interop.AcroPDFLib.dll
+D:\LEXIS-NEXIS PROJECT\1897\Sync\Sync\Projects\Image Cutter\Image Cutter\obj\Debug\Image Cutter.csprojResolveAssemblyReference.cache
+D:\LEXIS-NEXIS PROJECT\1897\Sync\Sync\Projects\Image Cutter\Image Cutter\obj\Debug\Mosaic_Image_Cut.Form1.resources
+D:\LEXIS-NEXIS PROJECT\1897\Sync\Sync\Projects\Image Cutter\Image Cutter\obj\Debug\Mosaic_Image_Cut.Properties.Resources.resources
+D:\LEXIS-NEXIS PROJECT\1897\Sync\Sync\Projects\Image Cutter\Image Cutter\obj\Debug\Image Cutter.csproj.GenerateResource.Cache
